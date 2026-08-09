@@ -5,6 +5,7 @@
 ![Forks](https://img.shields.io/github/forks/FangTangWei/hollow_knight_Grimmchild?style=social)
 ![License](https://img.shields.io/github/license/FangTangWei/hollow_knight_Grimmchild)
 ![Repo Size](https://img.shields.io/github/repo-size/FangTangWei/hollow_knight_Grimmchild)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 # 格林之子桌宠
 
