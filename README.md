@@ -1,6 +1,6 @@
 # hollow_knight_Grimmchild
 我将空洞骑士中的格林之子，做成了一个桌宠。/I turned the Grimmchild from Hollow Knight into a little desk pet.
-![格林之子桌宠图标](https://github.com/FangTangWei/hollow_knight_Grimmchild/blob/main/FlameConsumed.png)
+![格林之子桌宠图标](https://github.com/FangTangWei/hollow_knight_Grimmchild/blob/main/FlameConsumed.ico)
 ![Stars](https://img.shields.io/github/stars/FangTangWei/hollow_knight_Grimmchild?style=social)
 ![Forks](https://img.shields.io/github/forks/FangTangWei/hollow_knight_Grimmchild?style=social)
 ![License](https://img.shields.io/github/license/FangTangWei/hollow_knight_Grimmchild)
