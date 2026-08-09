@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/FangTangWei/hollow_knight_Grimmchild)
 ![Repo Size](https://img.shields.io/github/repo-size/FangTangWei/hollow_knight_Grimmchild)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FangTangWei.hollow_knight_Grimmchild)
 # 格林之子桌宠
 
 一款基于 Python 制作的 Windows 桌面智能宠物，拥有完整计时逻辑、自主行为与桌面生态互动，可自主成长、休眠、瞬移、繁育、对战。
