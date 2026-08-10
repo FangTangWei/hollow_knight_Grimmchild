@@ -104,11 +104,7 @@ python Grimmchild.py
 ```bash
 pip install pyinstaller
 
-pyinstaller -w --onefile \
-  -i "FlameConsumed.ico" \
-  --add-data "AudioClip;AudioClip" \
-  --add-data "Grimmchild Anim;Grimmchild Anim" \
-  Grimmchild.py
+pyinstaller -w --onefile -i "FlameConsumed.ico" --add-data "AudioClip;AudioClip" --add-data "Grimmchild Anim;Grimmchild Anim" Grimmchild.py
 ```
 
 | 参数 | 说明 |
