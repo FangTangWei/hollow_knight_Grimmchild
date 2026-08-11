@@ -117,8 +117,8 @@ pyinstaller -w --onefile -i "FlameConsumed.ico" --add-data "AudioClip;AudioClip"
 打包完成后，在 `dist/` 目录下找到 `Grimmchild.exe` 即可运行。
 
 ---
-<details>
-<summary>## 项目结构</summary>
+## <details>
+<summary>项目结构</summary>
 
 ```
 Grimmchild
@@ -336,6 +336,7 @@ Grimmchild
 ```
 
 </details>
+
 ---
 
 ## 使用的库
