@@ -118,8 +118,9 @@ pyinstaller -w --onefile -i "FlameConsumed.ico" --add-data "AudioClip;AudioClip"
 
 ---
 
-## <details>
-<summary>项目结构</summary>
+## 项目结构
+<details>
+<summary>点击展开查看目录</summary>
 
 ```
 Grimmchild
