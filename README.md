@@ -104,15 +104,12 @@ python Grimmchild.py
 ```bash
 pip install pyinstaller
 
-pyinstaller -w --onefile -i "FlameConsumed.ico" --add-data "AudioClip;AudioClip" --add-data "Grimmchild Anim;Grimmchild Anim" Grimmchild.py
+python -m PyInstaller Grimmchild.spec --workpath "%TEMP%\gc_work" --distpath ".\dist" --clean --noconfirm
 ```
 
-| 参数 | 说明 |
+| 文件 | 操作 |
 |------|------|
-| `-w` | 无控制台窗口（桌面应用） |
-| `--onefile` | 打包为单个 EXE 文件 |
-| `-i` | 指定应用图标 |
-| `--add-data` | 将音频和动画资源打包进 EXE |
+| `Grimmchild.spec` | 只需修改其中第十行 `ROOT = r'需要打包的文件所在路径'` |
 
 打包完成后，在 `dist/` 目录下找到 `Grimmchild.exe` 即可运行。
 
